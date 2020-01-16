@@ -12,7 +12,7 @@ This program prints "Hello World!"
 
 int main(void) {
 	
-	printf("Hello World!")
+	printf("Grant Shanle, Electrical Engineering")
 
 
 
