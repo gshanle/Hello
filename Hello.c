@@ -13,6 +13,8 @@ This program prints "Hello World!"
 int main(void) {
 	
 	printf("Grant Shanle, Electrical Engineering")
+    printf("Tatsuya Nakamura");
+    printf("computer science");
 
 
 
