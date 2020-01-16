@@ -11,11 +11,9 @@ This program prints my name and major as well as my collaborators name and major
 #include <stdio.h>
 
 int main(void) {
-	
-	printf("Grant Shanle")
-	printf("Electrical Engineering")
-    	printf("Tatsuya Nakamura");
-    	printf("computer science");
-
-return 0;
+	printf("Grant Shanle\n");
+	printf("Electrical Engineering");    	
+	printf("Tatsuya Nakamura\n");
+	printf("computer science");
+	return 0;
 }
