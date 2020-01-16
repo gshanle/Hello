@@ -3,8 +3,8 @@
 /*
 Grant Shanle
 1/16/2020
-No collaborators
-This program prints "Hello World!"
+Tatsuya Nakamura
+This program prints my name and major as well as my collaborators name and major
 */
 
 
@@ -12,11 +12,10 @@ This program prints "Hello World!"
 
 int main(void) {
 	
-	printf("Grant Shanle, Electrical Engineering")
-    printf("Tatsuya Nakamura");
-    printf("computer science");
-
-
+	printf("Grant Shanle")
+	printf("Electrical Engineering")
+    	printf("Tatsuya Nakamura");
+    	printf("computer science");
 
 return 0;
 }
